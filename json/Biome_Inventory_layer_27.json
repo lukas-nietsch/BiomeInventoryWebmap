@@ -1,0 +1,87 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Continuous moist tropics"
+  },
+  {
+    "value": 2,
+    "color": "#481D6FFF",
+    "legend": "Moist savanna"
+  },
+  {
+    "value": 3,
+    "color": "#453581FF",
+    "legend": "Dry savanna"
+  },
+  {
+    "value": 4,
+    "color": "#3D4D8AFF",
+    "legend": "Summer moist xeric shrubland"
+  },
+  {
+    "value": 5,
+    "color": "#34618DFF",
+    "legend": "Tropical-subtropical desert"
+  },
+  {
+    "value": 6,
+    "color": "#2B748EFF",
+    "legend": "Continuous moist subtropics"
+  },
+  {
+    "value": 7,
+    "color": "#24878EFF",
+    "legend": "Winter moist steppe"
+  },
+  {
+    "value": 8,
+    "color": "#1F998AFF",
+    "legend": "Winter moist subtropics"
+  },
+  {
+    "value": 9,
+    "color": "#25AC82FF",
+    "legend": "Temperate desert"
+  },
+  {
+    "value": 10,
+    "color": "#40BC72FF",
+    "legend": "Temperate steppe"
+  },
+  {
+    "value": 11,
+    "color": "#67CC5CFF",
+    "legend": "Moist mid-latitudes"
+  },
+  {
+    "value": 12,
+    "color": "#97D83FFF",
+    "legend": "Boreal"
+  },
+  {
+    "value": 13,
+    "color": "#CBE11EFF",
+    "legend": "Tundra"
+  },
+  {
+    "value": 14,
+    "color": "#FDE725FF",
+    "legend": "Ice"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  },
+  {
+    "value": 96,
+    "color": "#666666",
+    "legend": "Oceanic islands"
+  },
+  {
+    "value": 97,
+    "color": "#A52A2A",
+    "legend": "Mountains"
+  }
+]

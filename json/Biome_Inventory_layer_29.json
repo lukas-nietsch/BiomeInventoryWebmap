@@ -1,0 +1,157 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical rainforest"
+  },
+  {
+    "value": 2,
+    "color": "#470E61FF",
+    "legend": "Paramo heath and wet Puna"
+  },
+  {
+    "value": 3,
+    "color": "#481B6DFF",
+    "legend": "Moist savanna"
+  },
+  {
+    "value": 4,
+    "color": "#482777FF",
+    "legend": "Tropical mountain rainforest"
+  },
+  {
+    "value": 5,
+    "color": "#46337EFF",
+    "legend": "Tropical semi-evergreen rainforest"
+  },
+  {
+    "value": 6,
+    "color": "#433E85FF",
+    "legend": "Dry savanna"
+  },
+  {
+    "value": 7,
+    "color": "#3F4889FF",
+    "legend": "Thorn and succulent forest"
+  },
+  {
+    "value": 8,
+    "color": "#3B528BFF",
+    "legend": "Thorn savanna"
+  },
+  {
+    "value": 9,
+    "color": "#365C8DFF",
+    "legend": "Tropical dry forest"
+  },
+  {
+    "value": 10,
+    "color": "#32658EFF",
+    "legend": "Dry desert"
+  },
+  {
+    "value": 11,
+    "color": "#2E6E8EFF",
+    "legend": "Laurel forest and subtropical rainforest"
+  },
+  {
+    "value": 12,
+    "color": "#2A768EFF",
+    "legend": "Semidesert"
+  },
+  {
+    "value": 13,
+    "color": "#277F8EFF",
+    "legend": "Thorn shrub and succulents"
+  },
+  {
+    "value": 14,
+    "color": "#24878EFF",
+    "legend": "Sclerophyll vegetation"
+  },
+  {
+    "value": 15,
+    "color": "#21908CFF",
+    "legend": "Coniferous dry shrub"
+  },
+  {
+    "value": 16,
+    "color": "#1F998AFF",
+    "legend": "Dry steppe and hard cushion formations"
+  },
+  {
+    "value": 17,
+    "color": "#1FA187FF",
+    "legend": "Transition steppe"
+  },
+  {
+    "value": 18,
+    "color": "#24AA83FF",
+    "legend": "Summer green deciduous forest"
+  },
+  {
+    "value": 19,
+    "color": "#2DB27DFF",
+    "legend": "Mountain vegetation"
+  },
+  {
+    "value": 20,
+    "color": "#3ABA76FF",
+    "legend": "Subantarctic heath"
+  },
+  {
+    "value": 21,
+    "color": "#4AC16DFF",
+    "legend": "Summer green tree steppe"
+  },
+  {
+    "value": 22,
+    "color": "#5DC863FF",
+    "legend": "Summer green deciduous forest with conifers"
+  },
+  {
+    "value": 23,
+    "color": "#71CF57FF",
+    "legend": "Mountain coniferous forest"
+  },
+  {
+    "value": 24,
+    "color": "#87D549FF",
+    "legend": "Temperate rainforest"
+  },
+  {
+    "value": 25,
+    "color": "#9FDA3AFF",
+    "legend": "Evergreen boreal coniferous forest"
+  },
+  {
+    "value": 26,
+    "color": "#B7DE2AFF",
+    "legend": "Summer green coniferous forest"
+  },
+  {
+    "value": 27,
+    "color": "#CFE11CFF",
+    "legend": "Subpolar meadow and summer green shrub"
+  },
+  {
+    "value": 28,
+    "color": "#E7E419FF",
+    "legend": "Tundra"
+  },
+  {
+    "value": 29,
+    "color": "#FDE725FF",
+    "legend": "Cold desert"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  },
+  {
+    "value": 96,
+    "color": "#666666",
+    "legend": "Oceanic islands"
+  }
+]

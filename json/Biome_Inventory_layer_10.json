@@ -1,0 +1,172 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Evergreen and seasonal tropical lowland rainforest"
+  },
+  {
+    "value": 2,
+    "color": "#470D60FF",
+    "legend": "Raingreen moist savanna"
+  },
+  {
+    "value": 3,
+    "color": "#481A6CFF",
+    "legend": "Evergreen moist savanna"
+  },
+  {
+    "value": 4,
+    "color": "#482576FF",
+    "legend": "Raingreen dry savanna"
+  },
+  {
+    "value": 5,
+    "color": "#472F7DFF",
+    "legend": "Semievergreen and raingreen deciduous forest"
+  },
+  {
+    "value": 6,
+    "color": "#443A83FF",
+    "legend": "Tropical-subtropical dry forest"
+  },
+  {
+    "value": 7,
+    "color": "#414487FF",
+    "legend": "Evergreen dry savanna"
+  },
+  {
+    "value": 8,
+    "color": "#3D4D8AFF",
+    "legend": "Tropical-subtropical dwarf bush semidesert"
+  },
+  {
+    "value": 9,
+    "color": "#39568CFF",
+    "legend": "Tropical-subtropical grass semidesert"
+  },
+  {
+    "value": 10,
+    "color": "#35608DFF",
+    "legend": "Tropical-subtropical desert"
+  },
+  {
+    "value": 11,
+    "color": "#31688EFF",
+    "legend": "Evergreen subtropical laurel forest"
+  },
+  {
+    "value": 12,
+    "color": "#2D718EFF",
+    "legend": "Tropical-subtropical succulent semidesert"
+  },
+  {
+    "value": 13,
+    "color": "#2A788EFF",
+    "legend": "High mountian steppe semidesert"
+  },
+  {
+    "value": 14,
+    "color": "#27808EFF",
+    "legend": "Subtropical grassland"
+  },
+  {
+    "value": 15,
+    "color": "#23888EFF",
+    "legend": "Subtropical sclerophyll forest"
+  },
+  {
+    "value": 16,
+    "color": "#21908CFF",
+    "legend": "Nemoral dry forest"
+  },
+  {
+    "value": 17,
+    "color": "#1F988BFF",
+    "legend": "Nemoral desert"
+  },
+  {
+    "value": 18,
+    "color": "#1FA188FF",
+    "legend": "Nemoral dwarf bush semidesert"
+  },
+  {
+    "value": 19,
+    "color": "#22A884FF",
+    "legend": "Evergreen nemoral laural forest"
+  },
+  {
+    "value": 20,
+    "color": "#29AF7FFF",
+    "legend": "Summergreen nemoral deciduous forest"
+  },
+  {
+    "value": 21,
+    "color": "#35B779FF",
+    "legend": "Mixed and low-grass steppe"
+  },
+  {
+    "value": 22,
+    "color": "#43BF71FF",
+    "legend": "Evergreen and summergreen forest, tall-grass steppe"
+  },
+  {
+    "value": 23,
+    "color": "#54C568FF",
+    "legend": "Evergreen nemoral Nothofagus forest"
+  },
+  {
+    "value": 24,
+    "color": "#66CB5DFF",
+    "legend": "Evergreen nemoral coniferous forest"
+  },
+  {
+    "value": 25,
+    "color": "#7AD151FF",
+    "legend": "Hemiboreal deciduous coniferous mixed forest"
+  },
+  {
+    "value": 26,
+    "color": "#8FD744FF",
+    "legend": "Evergreen boreal coniferous forest"
+  },
+  {
+    "value": 27,
+    "color": "#A5DB36FF",
+    "legend": "Summergreen boreal coniferous forest"
+  },
+  {
+    "value": 28,
+    "color": "#BBDF27FF",
+    "legend": "Summergreen boreal deciduous forest"
+  },
+  {
+    "value": 29,
+    "color": "#D2E21BFF",
+    "legend": "Polar gras and dwarf shrub tundra"
+  },
+  {
+    "value": 30,
+    "color": "#E9E519FF",
+    "legend": "Polar desert"
+  },
+  {
+    "value": 31,
+    "color": "#FDE725FF",
+    "legend": "Polar semidesert"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  },
+  {
+    "value": 96,
+    "color": "#666666",
+    "legend": "Oceanic islands"
+  },
+  {
+    "value": 97,
+    "color": "#A52A2A",
+    "legend": "Mountains"
+  }
+]

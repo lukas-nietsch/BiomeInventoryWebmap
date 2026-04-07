@@ -1,0 +1,122 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "THN"
+  },
+  {
+    "value": 2,
+    "color": "#471164FF",
+    "legend": "THD"
+  },
+  {
+    "value": 3,
+    "color": "#482071FF",
+    "legend": "SHD"
+  },
+  {
+    "value": 4,
+    "color": "#472E7CFF",
+    "legend": "SHN"
+  },
+  {
+    "value": 5,
+    "color": "#443C84FF",
+    "legend": "SMD"
+  },
+  {
+    "value": 6,
+    "color": "#3F4889FF",
+    "legend": "TMD"
+  },
+  {
+    "value": 7,
+    "color": "#39558CFF",
+    "legend": "SLD"
+  },
+  {
+    "value": 8,
+    "color": "#34618DFF",
+    "legend": "SLN"
+  },
+  {
+    "value": 9,
+    "color": "#2F6C8EFF",
+    "legend": "THB"
+  },
+  {
+    "value": 10,
+    "color": "#2A768EFF",
+    "legend": "TLD"
+  },
+  {
+    "value": 11,
+    "color": "#26818EFF",
+    "legend": "SHB"
+  },
+  {
+    "value": 12,
+    "color": "#228B8DFF",
+    "legend": "TLN"
+  },
+  {
+    "value": 13,
+    "color": "#1F958BFF",
+    "legend": "SMN"
+  },
+  {
+    "value": 14,
+    "color": "#1FA088FF",
+    "legend": "TMN"
+  },
+  {
+    "value": 15,
+    "color": "#24AA83FF",
+    "legend": "SHC"
+  },
+  {
+    "value": 16,
+    "color": "#30B47CFF",
+    "legend": "THC"
+  },
+  {
+    "value": 17,
+    "color": "#41BD72FF",
+    "legend": "SMB"
+  },
+  {
+    "value": 18,
+    "color": "#57C666FF",
+    "legend": "TMB"
+  },
+  {
+    "value": 19,
+    "color": "#6FCF57FF",
+    "legend": "SLB"
+  },
+  {
+    "value": 20,
+    "color": "#8AD647FF",
+    "legend": "SMC"
+  },
+  {
+    "value": 21,
+    "color": "#A7DB35FF",
+    "legend": "TMC"
+  },
+  {
+    "value": 22,
+    "color": "#C4E021FF",
+    "legend": "SLC"
+  },
+  {
+    "value": 23,
+    "color": "#E2E418FF",
+    "legend": "TLB"
+  },
+  {
+    "value": 24,
+    "color": "#FDE725FF",
+    "legend": "TLC"
+  }
+]

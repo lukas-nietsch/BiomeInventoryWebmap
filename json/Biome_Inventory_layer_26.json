@@ -1,0 +1,197 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical moist forest"
+  },
+  {
+    "value": 2,
+    "color": "#460B5EFF",
+    "legend": "Subtropical wet forest"
+  },
+  {
+    "value": 3,
+    "color": "#481668FF",
+    "legend": "Warm temperate rainforest"
+  },
+  {
+    "value": 4,
+    "color": "#481E70FF",
+    "legend": "Tropical wet forest"
+  },
+  {
+    "value": 5,
+    "color": "#482778FF",
+    "legend": "Subtropical rainforest"
+  },
+  {
+    "value": 6,
+    "color": "#472F7EFF",
+    "legend": "Tropical dry forest"
+  },
+  {
+    "value": 7,
+    "color": "#453882FF",
+    "legend": "Subtropical moist forest"
+  },
+  {
+    "value": 8,
+    "color": "#424086FF",
+    "legend": "Tropical very dry forest"
+  },
+  {
+    "value": 9,
+    "color": "#3F4889FF",
+    "legend": "Tropical thorn steppe"
+  },
+  {
+    "value": 10,
+    "color": "#3C508BFF",
+    "legend": "Subtropical dry forest"
+  },
+  {
+    "value": 11,
+    "color": "#38588CFF",
+    "legend": "Tropical desert bush"
+  },
+  {
+    "value": 12,
+    "color": "#355F8DFF",
+    "legend": "Warm temperate wet forest"
+  },
+  {
+    "value": 13,
+    "color": "#31668EFF",
+    "legend": "Tropical desert"
+  },
+  {
+    "value": 14,
+    "color": "#2E6D8EFF",
+    "legend": "Subtropical thorn steppe"
+  },
+  {
+    "value": 15,
+    "color": "#2C738EFF",
+    "legend": "Subtropical desert"
+  },
+  {
+    "value": 16,
+    "color": "#29798EFF",
+    "legend": "Subtropical desert bush"
+  },
+  {
+    "value": 17,
+    "color": "#27808EFF",
+    "legend": "Warm temperate moist forest"
+  },
+  {
+    "value": 18,
+    "color": "#24868EFF",
+    "legend": "Warm temperate desert"
+  },
+  {
+    "value": 19,
+    "color": "#228D8DFF",
+    "legend": "Warm temperate dry forest"
+  },
+  {
+    "value": 20,
+    "color": "#20938CFF",
+    "legend": "Cool temperate rainforest"
+  },
+  {
+    "value": 21,
+    "color": "#1F9A8AFF",
+    "legend": "Warm temperate thorn steppe"
+  },
+  {
+    "value": 22,
+    "color": "#1FA188FF",
+    "legend": "Warm temperate desert bush"
+  },
+  {
+    "value": 23,
+    "color": "#22A785FF",
+    "legend": "Cool temperate wet forest"
+  },
+  {
+    "value": 24,
+    "color": "#27AD81FF",
+    "legend": "Cool temperate desert"
+  },
+  {
+    "value": 25,
+    "color": "#2EB37CFF",
+    "legend": "Cool temperate desert bush"
+  },
+  {
+    "value": 26,
+    "color": "#39B977FF",
+    "legend": "Cool temperate steppe"
+  },
+  {
+    "value": 27,
+    "color": "#44BF70FF",
+    "legend": "Boreal rainforest"
+  },
+  {
+    "value": 28,
+    "color": "#52C569FF",
+    "legend": "Cool temperate moist forest"
+  },
+  {
+    "value": 29,
+    "color": "#60CA60FF",
+    "legend": "Boreal desert"
+  },
+  {
+    "value": 30,
+    "color": "#70CF57FF",
+    "legend": "Boreal dry bush"
+  },
+  {
+    "value": 31,
+    "color": "#80D34DFF",
+    "legend": "Polar rain tundra"
+  },
+  {
+    "value": 32,
+    "color": "#92D742FF",
+    "legend": "Boreal wet forest"
+  },
+  {
+    "value": 33,
+    "color": "#A3DB36FF",
+    "legend": "Boreal moist forest"
+  },
+  {
+    "value": 34,
+    "color": "#B6DE2AFF",
+    "legend": "Polar desert"
+  },
+  {
+    "value": 35,
+    "color": "#C9E020FF",
+    "legend": "Polar dry tundra"
+  },
+  {
+    "value": 36,
+    "color": "#DBE319FF",
+    "legend": "Polar wet tundra"
+  },
+  {
+    "value": 37,
+    "color": "#ECE51BFF",
+    "legend": "Polar moist tundra"
+  },
+  {
+    "value": 38,
+    "color": "#FDE725FF",
+    "legend": "Ice"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  }
+]

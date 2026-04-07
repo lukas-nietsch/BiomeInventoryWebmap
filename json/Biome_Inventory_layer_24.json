@@ -1,0 +1,82 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Evergreen broadleaf"
+  },
+  {
+    "value": 2,
+    "color": "#481B6DFF",
+    "legend": "Savanna"
+  },
+  {
+    "value": 3,
+    "color": "#46337EFF",
+    "legend": "Crop/natural vegetation"
+  },
+  {
+    "value": 4,
+    "color": "#3F4889FF",
+    "legend": "Bare surface"
+  },
+  {
+    "value": 5,
+    "color": "#365C8DFF",
+    "legend": "Woody savanna"
+  },
+  {
+    "value": 6,
+    "color": "#2E6E8EFF",
+    "legend": "Deciduous broadleaf"
+  },
+  {
+    "value": 7,
+    "color": "#277F8EFF",
+    "legend": "Wetlands"
+  },
+  {
+    "value": 8,
+    "color": "#21908CFF",
+    "legend": "Closed shrub"
+  },
+  {
+    "value": 9,
+    "color": "#1FA187FF",
+    "legend": "Grassland"
+  },
+  {
+    "value": 10,
+    "color": "#2DB27DFF",
+    "legend": "Cropland"
+  },
+  {
+    "value": 11,
+    "color": "#4AC16DFF",
+    "legend": "Open shrub"
+  },
+  {
+    "value": 12,
+    "color": "#71CF57FF",
+    "legend": "Mixed forest"
+  },
+  {
+    "value": 13,
+    "color": "#9FDA3AFF",
+    "legend": "Evergreen needleleaf"
+  },
+  {
+    "value": 14,
+    "color": "#CFE11CFF",
+    "legend": "Deciduous needleleaf"
+  },
+  {
+    "value": 15,
+    "color": "#FDE725FF",
+    "legend": "Ice"
+  },
+  {
+    "value": 98,
+    "color": "#FF8C00",
+    "legend": "Urban"
+  }
+]

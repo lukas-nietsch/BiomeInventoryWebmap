@@ -1,0 +1,157 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Af - Tropical rainforest"
+  },
+  {
+    "value": 2,
+    "color": "#470D60FF",
+    "legend": "Am - Tropical monsoon"
+  },
+  {
+    "value": 3,
+    "color": "#481A6CFF",
+    "legend": "Aw - Tropical savanna"
+  },
+  {
+    "value": 4,
+    "color": "#482576FF",
+    "legend": "Cwc - Temperate dry winter cold summer"
+  },
+  {
+    "value": 5,
+    "color": "#472F7DFF",
+    "legend": "BSh - Arid steppe hot"
+  },
+  {
+    "value": 6,
+    "color": "#443A83FF",
+    "legend": "Cwb - Temperate dry winter warm summer"
+  },
+  {
+    "value": 7,
+    "color": "#414487FF",
+    "legend": "Cwa - Temperate dry winter hot summer"
+  },
+  {
+    "value": 8,
+    "color": "#3D4D8AFF",
+    "legend": "BWh - Arid desert hot"
+  },
+  {
+    "value": 9,
+    "color": "#39568CFF",
+    "legend": "Cfa - Temperate no dry season hot summer"
+  },
+  {
+    "value": 10,
+    "color": "#35608DFF",
+    "legend": "Csb - Temperate dry summer warm summer"
+  },
+  {
+    "value": 11,
+    "color": "#31688EFF",
+    "legend": "Csa - Temperate dry summer hot summer"
+  },
+  {
+    "value": 12,
+    "color": "#2D718EFF",
+    "legend": "ETH - Polar tundra highland"
+  },
+  {
+    "value": 13,
+    "color": "#2A788EFF",
+    "legend": "BWk - Arid desert cold"
+  },
+  {
+    "value": 14,
+    "color": "#27808EFF",
+    "legend": "Cfb - Temperate no dry season warm summer"
+  },
+  {
+    "value": 15,
+    "color": "#23888EFF",
+    "legend": "BSk - Arid steppe cold"
+  },
+  {
+    "value": 16,
+    "color": "#21908CFF",
+    "legend": "Dsa - Cold dry summer hot summer"
+  },
+  {
+    "value": 17,
+    "color": "#1F988BFF",
+    "legend": "Dwa - Cold dry winter hot summer"
+  },
+  {
+    "value": 18,
+    "color": "#1FA188FF",
+    "legend": "Dwb - Cold dry winter warm summer"
+  },
+  {
+    "value": 19,
+    "color": "#22A884FF",
+    "legend": "Dfa - Cold no dry season hot summer"
+  },
+  {
+    "value": 20,
+    "color": "#29AF7FFF",
+    "legend": "Dsb - Cold dry summer warm summer"
+  },
+  {
+    "value": 21,
+    "color": "#35B779FF",
+    "legend": "EFH - Polar frost highland"
+  },
+  {
+    "value": 22,
+    "color": "#43BF71FF",
+    "legend": "Cfc - Temperate no dry season cold summer"
+  },
+  {
+    "value": 23,
+    "color": "#54C568FF",
+    "legend": "Dwc - Cold dry winter cold summer"
+  },
+  {
+    "value": 24,
+    "color": "#66CB5DFF",
+    "legend": "Dfb - Cold no dry season warm summer"
+  },
+  {
+    "value": 25,
+    "color": "#7AD151FF",
+    "legend": "Dsc - Cold dry summer cold summer"
+  },
+  {
+    "value": 26,
+    "color": "#8FD744FF",
+    "legend": "Dfc - Cold no dry season cold summer"
+  },
+  {
+    "value": 27,
+    "color": "#A5DB36FF",
+    "legend": "Dsd - Cold dry summer very cold winter"
+  },
+  {
+    "value": 28,
+    "color": "#BBDF27FF",
+    "legend": "Dwd - Cold dry winter very cold winter"
+  },
+  {
+    "value": 29,
+    "color": "#D2E21BFF",
+    "legend": "Dfd - Cold no dry season very cold winter"
+  },
+  {
+    "value": 30,
+    "color": "#E9E519FF",
+    "legend": "ET - Polar tundra"
+  },
+  {
+    "value": 31,
+    "color": "#FDE725FF",
+    "legend": "EF - Polar frost"
+  }
+]

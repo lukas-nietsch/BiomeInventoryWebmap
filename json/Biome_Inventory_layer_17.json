@@ -1,0 +1,107 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Closed to open (>15%) broadleaf forest regularly flooded (fresh/brackish water)"
+  },
+  {
+    "value": 2,
+    "color": "#481568FF",
+    "legend": "Closed to open (>15%) broadleaf evergreen or semi-deciduous forest (>5m)"
+  },
+  {
+    "value": 3,
+    "color": "#482677FF",
+    "legend": "Open (15-40%) broadleaf deciduous forest/woodland (>5m)"
+  },
+  {
+    "value": 4,
+    "color": "#453781FF",
+    "legend": "Closed (>40%) broadleaf forest or shrubland permanently flooded (saline/brackish water)"
+  },
+  {
+    "value": 5,
+    "color": "#3F4788FF",
+    "legend": "Closed to open (>15%) (broadleaf or needleleaf evergreen or deciduous) shrubland (<5m)"
+  },
+  {
+    "value": 6,
+    "color": "#39558CFF",
+    "legend": "Mosaic vegetation (grassland/shrubland/forest) (50-70%)/cropland (20-50%)"
+  },
+  {
+    "value": 7,
+    "color": "#32648EFF",
+    "legend": "Mosaic cropland (50-70%)/vegetation (grassland/shrubland/forest) (20-50%)"
+  },
+  {
+    "value": 8,
+    "color": "#2D718EFF",
+    "legend": "Post-flooding or irrigated cropland (or aquatic)"
+  },
+  {
+    "value": 9,
+    "color": "#287D8EFF",
+    "legend": "Closed to open (>15%) herbaceous vegetation (grassland savanna or lichen/moss)"
+  },
+  {
+    "value": 10,
+    "color": "#238A8DFF",
+    "legend": "Bare soil"
+  },
+  {
+    "value": 11,
+    "color": "#1F968BFF",
+    "legend": "Rainfed cropland"
+  },
+  {
+    "value": 12,
+    "color": "#20A386FF",
+    "legend": "Mosaic forest or shrubland (50-70%)/grassland (20-50%)"
+  },
+  {
+    "value": 13,
+    "color": "#29AF7FFF",
+    "legend": "Closed (>40%) broadleaf deciduous forest (>5m)"
+  },
+  {
+    "value": 14,
+    "color": "#3CBC75FF",
+    "legend": "Closed (>40%) needleleaf evergreen forest (>5m)"
+  },
+  {
+    "value": 15,
+    "color": "#56C667FF",
+    "legend": "Mosaic grassland (50-70%)/forest or shrubland (20-50%)"
+  },
+  {
+    "value": 16,
+    "color": "#74D055FF",
+    "legend": "Closed to open (>15%) grassland or woody vegetation regularly flooded (fresh/brackish/saline water)"
+  },
+  {
+    "value": 17,
+    "color": "#94D840FF",
+    "legend": "Sparse (<15%) vegetation"
+  },
+  {
+    "value": 18,
+    "color": "#B8DE29FF",
+    "legend": "Closed to open (>15%) mixed broadleaf and needleleaf forest (>5m)"
+  },
+  {
+    "value": 19,
+    "color": "#DCE318FF",
+    "legend": "Open (15-40%) needleleaf deciduous or evergreen forest (>5m)"
+  },
+  {
+    "value": 20,
+    "color": "#FDE725FF",
+    "legend": "Snow and ice"
+  },
+  {
+    "value": 98,
+    "color": "#FF8C00",
+    "legend": "Urban"
+  }
+]

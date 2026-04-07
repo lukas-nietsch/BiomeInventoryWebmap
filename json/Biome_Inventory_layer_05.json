@@ -1,0 +1,77 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical and subtropical moist broadleaf forest"
+  },
+  {
+    "value": 2,
+    "color": "#481B6DFF",
+    "legend": "Mangrove"
+  },
+  {
+    "value": 3,
+    "color": "#46337EFF",
+    "legend": "Tropical and subtropical grassland savanna and shrubland"
+  },
+  {
+    "value": 4,
+    "color": "#3F4889FF",
+    "legend": "Tropical and subtropical dry broadleaf forest"
+  },
+  {
+    "value": 5,
+    "color": "#365C8DFF",
+    "legend": "Flooded grassland and savanna"
+  },
+  {
+    "value": 6,
+    "color": "#2E6E8EFF",
+    "legend": "Tropical and subtropical coniferous forest"
+  },
+  {
+    "value": 7,
+    "color": "#277F8EFF",
+    "legend": "Deserts and xeric shrubland"
+  },
+  {
+    "value": 8,
+    "color": "#21908CFF",
+    "legend": "Montane grassland and shrubland"
+  },
+  {
+    "value": 9,
+    "color": "#1FA187FF",
+    "legend": "Mediterranean forest woodland and scrub "
+  },
+  {
+    "value": 10,
+    "color": "#2DB27DFF",
+    "legend": "Temperate grassland savanna and shrubland"
+  },
+  {
+    "value": 11,
+    "color": "#4AC16DFF",
+    "legend": "Temperate broadleaf and mixed forest"
+  },
+  {
+    "value": 12,
+    "color": "#71CF57FF",
+    "legend": "Temperate conifer forest"
+  },
+  {
+    "value": 13,
+    "color": "#9FDA3AFF",
+    "legend": "Boreal forest/taiga"
+  },
+  {
+    "value": 14,
+    "color": "#CFE11CFF",
+    "legend": "Tundra"
+  },
+  {
+    "value": 15,
+    "color": "#FDE725FF",
+    "legend": "Rock and ice"
+  }
+]

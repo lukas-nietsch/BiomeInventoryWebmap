@@ -1,0 +1,107 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical evergreen forest"
+  },
+  {
+    "value": 2,
+    "color": "#481467FF",
+    "legend": "Tropical raingreen forest"
+  },
+  {
+    "value": 3,
+    "color": "#482576FF",
+    "legend": "Savanna"
+  },
+  {
+    "value": 4,
+    "color": "#463480FF",
+    "legend": "Tropical grassland"
+  },
+  {
+    "value": 5,
+    "color": "#414487FF",
+    "legend": "Warm temperate woodland"
+  },
+  {
+    "value": 6,
+    "color": "#3B528BFF",
+    "legend": "Desert"
+  },
+  {
+    "value": 7,
+    "color": "#35608DFF",
+    "legend": "Temperate broadleaf evergreen forest"
+  },
+  {
+    "value": 8,
+    "color": "#2F6C8EFF",
+    "legend": "Semidesert"
+  },
+  {
+    "value": 9,
+    "color": "#2A788EFF",
+    "legend": "Temperate shrubland"
+  },
+  {
+    "value": 10,
+    "color": "#25848EFF",
+    "legend": "Temperate needleleaf evergreen forest"
+  },
+  {
+    "value": 11,
+    "color": "#21908CFF",
+    "legend": "Steppe"
+  },
+  {
+    "value": 12,
+    "color": "#1E9C89FF",
+    "legend": "Temperate parkland"
+  },
+  {
+    "value": 13,
+    "color": "#22A884FF",
+    "legend": "Temperate summergreen forest"
+  },
+  {
+    "value": 14,
+    "color": "#2FB47CFF",
+    "legend": "Temperate mixed forest"
+  },
+  {
+    "value": 15,
+    "color": "#43BF71FF",
+    "legend": "Boreal parkland"
+  },
+  {
+    "value": 16,
+    "color": "#5DC863FF",
+    "legend": "Tundra"
+  },
+  {
+    "value": 17,
+    "color": "#7AD151FF",
+    "legend": "Boreal summergreen broadleaf forest"
+  },
+  {
+    "value": 18,
+    "color": "#9AD93CFF",
+    "legend": "Boreal evergreen needleleaf forest"
+  },
+  {
+    "value": 19,
+    "color": "#BBDF27FF",
+    "legend": "Boreal summergreen needleleaf forest"
+  },
+  {
+    "value": 20,
+    "color": "#DEE318FF",
+    "legend": "Shrub tundra"
+  },
+  {
+    "value": 21,
+    "color": "#FDE725FF",
+    "legend": "Boreal woodland"
+  }
+]

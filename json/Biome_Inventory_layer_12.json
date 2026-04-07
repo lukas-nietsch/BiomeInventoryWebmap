@@ -1,0 +1,82 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Extremely hot and moist"
+  },
+  {
+    "value": 2,
+    "color": "#481A6CFF",
+    "legend": "Hot and mesic"
+  },
+  {
+    "value": 3,
+    "color": "#472F7DFF",
+    "legend": "Extremely hot and xeric"
+  },
+  {
+    "value": 4,
+    "color": "#414487FF",
+    "legend": "Extremely hot and arid"
+  },
+  {
+    "value": 5,
+    "color": "#39568CFF",
+    "legend": "Hot and dry"
+  },
+  {
+    "value": 6,
+    "color": "#31688EFF",
+    "legend": "Hot and arid"
+  },
+  {
+    "value": 7,
+    "color": "#2A788EFF",
+    "legend": "Warm temperate and xeric"
+  },
+  {
+    "value": 8,
+    "color": "#23888EFF",
+    "legend": "Warm temperate and mesic"
+  },
+  {
+    "value": 9,
+    "color": "#1F988BFF",
+    "legend": "Cool temperate and moist"
+  },
+  {
+    "value": 10,
+    "color": "#22A884FF",
+    "legend": "Cool temperate and xeric"
+  },
+  {
+    "value": 11,
+    "color": "#35B779FF",
+    "legend": "Cool temperate and dry"
+  },
+  {
+    "value": 12,
+    "color": "#54C568FF",
+    "legend": "Cold and mesic"
+  },
+  {
+    "value": 13,
+    "color": "#7AD151FF",
+    "legend": "Cold and wet"
+  },
+  {
+    "value": 14,
+    "color": "#A5DB36FF",
+    "legend": "Extremely cold and mesic"
+  },
+  {
+    "value": 15,
+    "color": "#D2E21BFF",
+    "legend": "Extremely cold and wet"
+  },
+  {
+    "value": 16,
+    "color": "#FDE725FF",
+    "legend": "Arctic"
+  }
+]

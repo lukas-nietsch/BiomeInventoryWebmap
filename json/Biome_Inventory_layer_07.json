@@ -1,0 +1,67 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Cluster 5"
+  },
+  {
+    "value": 2,
+    "color": "#481F70FF",
+    "legend": "Cluster 9"
+  },
+  {
+    "value": 3,
+    "color": "#443A83FF",
+    "legend": "Cluster 7"
+  },
+  {
+    "value": 4,
+    "color": "#3B528BFF",
+    "legend": "Cluster 11"
+  },
+  {
+    "value": 5,
+    "color": "#31688EFF",
+    "legend": "Cluster 10"
+  },
+  {
+    "value": 6,
+    "color": "#287C8EFF",
+    "legend": "Cluster 12"
+  },
+  {
+    "value": 7,
+    "color": "#21908CFF",
+    "legend": "Cluster 13"
+  },
+  {
+    "value": 8,
+    "color": "#20A486FF",
+    "legend": "Cluster 6"
+  },
+  {
+    "value": 9,
+    "color": "#35B779FF",
+    "legend": "Cluster 8"
+  },
+  {
+    "value": 10,
+    "color": "#5DC863FF",
+    "legend": "Cluster 4"
+  },
+  {
+    "value": 11,
+    "color": "#8FD744FF",
+    "legend": "Cluster 3"
+  },
+  {
+    "value": 12,
+    "color": "#C7E020FF",
+    "legend": "Cluster 2"
+  },
+  {
+    "value": 13,
+    "color": "#FDE725FF",
+    "legend": "Cluster 1"
+  }
+]

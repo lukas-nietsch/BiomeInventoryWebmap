@@ -1,0 +1,62 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical evergreen woodland"
+  },
+  {
+    "value": 2,
+    "color": "#482173FF",
+    "legend": "Tropical deciduous woodland"
+  },
+  {
+    "value": 3,
+    "color": "#433E85FF",
+    "legend": "Savanna"
+  },
+  {
+    "value": 4,
+    "color": "#38598CFF",
+    "legend": "Dense shrubland"
+  },
+  {
+    "value": 5,
+    "color": "#2D708EFF",
+    "legend": "Desert and barren"
+  },
+  {
+    "value": 6,
+    "color": "#25858EFF",
+    "legend": "Open shrubland"
+  },
+  {
+    "value": 7,
+    "color": "#1E9B8AFF",
+    "legend": "Grassland and steppe"
+  },
+  {
+    "value": 8,
+    "color": "#2BB07FFF",
+    "legend": "Temperate evergreen woodland"
+  },
+  {
+    "value": 9,
+    "color": "#51C56AFF",
+    "legend": "Temperate deciduous woodland"
+  },
+  {
+    "value": 10,
+    "color": "#85D54AFF",
+    "legend": "Mixed woodland"
+  },
+  {
+    "value": 11,
+    "color": "#C2DF23FF",
+    "legend": "Tundra"
+  },
+  {
+    "value": 12,
+    "color": "#FDE725FF",
+    "legend": "Boreal woodland"
+  }
+]

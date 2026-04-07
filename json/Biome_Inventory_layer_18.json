@@ -1,0 +1,82 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Evergreen broadleaf forest"
+  },
+  {
+    "value": 2,
+    "color": "#481B6DFF",
+    "legend": "Cropland/natural vegetation mosaic"
+  },
+  {
+    "value": 3,
+    "color": "#46337EFF",
+    "legend": "Closed shrubland"
+  },
+  {
+    "value": 4,
+    "color": "#3F4889FF",
+    "legend": "Barren"
+  },
+  {
+    "value": 5,
+    "color": "#365C8DFF",
+    "legend": "Savanna"
+  },
+  {
+    "value": 6,
+    "color": "#2E6E8EFF",
+    "legend": "Grassland"
+  },
+  {
+    "value": 7,
+    "color": "#277F8EFF",
+    "legend": "Cropland"
+  },
+  {
+    "value": 8,
+    "color": "#21908CFF",
+    "legend": "Deciduous broadleaf forest"
+  },
+  {
+    "value": 9,
+    "color": "#1FA187FF",
+    "legend": "Woody savanna"
+  },
+  {
+    "value": 10,
+    "color": "#2DB27DFF",
+    "legend": "Open shrubland"
+  },
+  {
+    "value": 11,
+    "color": "#4AC16DFF",
+    "legend": "Permanent wetland"
+  },
+  {
+    "value": 12,
+    "color": "#71CF57FF",
+    "legend": "Mixed forest"
+  },
+  {
+    "value": 13,
+    "color": "#9FDA3AFF",
+    "legend": "Evergreen needleleaf forest"
+  },
+  {
+    "value": 14,
+    "color": "#CFE11CFF",
+    "legend": "Deciduous needleleaf forest"
+  },
+  {
+    "value": 15,
+    "color": "#FDE725FF",
+    "legend": "Snow and ice"
+  },
+  {
+    "value": 98,
+    "color": "#FF8C00",
+    "legend": "Urban"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Closed forest (evergreen broadleaf)"
+  },
+  {
+    "value": 2,
+    "color": "#481769FF",
+    "legend": "Open forest (deciduous broadleaf)"
+  },
+  {
+    "value": 3,
+    "color": "#472A7AFF",
+    "legend": "Open forest (unknown)"
+  },
+  {
+    "value": 4,
+    "color": "#433D84FF",
+    "legend": "Shrubs"
+  },
+  {
+    "value": 5,
+    "color": "#3D4E8AFF",
+    "legend": "Bare soil/sparse vegetation"
+  },
+  {
+    "value": 6,
+    "color": "#355E8DFF",
+    "legend": "Cultivated and managed vegetation/agriculture (cropland)"
+  },
+  {
+    "value": 7,
+    "color": "#2E6D8EFF",
+    "legend": "Closed forest (deciduous broadleaf)"
+  },
+  {
+    "value": 8,
+    "color": "#297B8EFF",
+    "legend": "Closed forest (unknown)"
+  },
+  {
+    "value": 9,
+    "color": "#23898EFF",
+    "legend": "Open forest (evergreen broadleaf)"
+  },
+  {
+    "value": 10,
+    "color": "#1F978BFF",
+    "legend": "Herbaceous vegetation"
+  },
+  {
+    "value": 11,
+    "color": "#21A585FF",
+    "legend": "Open forest (evergreen needleleaf)"
+  },
+  {
+    "value": 12,
+    "color": "#2EB37CFF",
+    "legend": "Closed forest (mixed)"
+  },
+  {
+    "value": 13,
+    "color": "#46C06FFF",
+    "legend": "Closed forest (evergreen needleleaf)"
+  },
+  {
+    "value": 14,
+    "color": "#65CB5EFF",
+    "legend": "Herbaceous wetland"
+  },
+  {
+    "value": 15,
+    "color": "#89D548FF",
+    "legend": "Closed forest (deciduous needleleaf)"
+  },
+  {
+    "value": 16,
+    "color": "#B0DD2FFF",
+    "legend": "Open forest (deciduous needleleaf)"
+  },
+  {
+    "value": 17,
+    "color": "#D8E219FF",
+    "legend": "Snow and ice"
+  },
+  {
+    "value": 18,
+    "color": "#FDE725FF",
+    "legend": "Moss and lichen"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  },
+  {
+    "value": 98,
+    "color": "#FF8C00",
+    "legend": "Urban"
+  }
+]

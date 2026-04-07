@@ -1,0 +1,77 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical rainforest"
+  },
+  {
+    "value": 2,
+    "color": "#481F70FF",
+    "legend": "Tropical pasture highland"
+  },
+  {
+    "value": 3,
+    "color": "#443A83FF",
+    "legend": "Moist savanna"
+  },
+  {
+    "value": 4,
+    "color": "#3B528BFF",
+    "legend": "Dry savanna and tropical dry forest"
+  },
+  {
+    "value": 5,
+    "color": "#31688EFF",
+    "legend": "Tropical agriculture"
+  },
+  {
+    "value": 6,
+    "color": "#287C8EFF",
+    "legend": "Desert and semidesert"
+  },
+  {
+    "value": 7,
+    "color": "#21908CFF",
+    "legend": "Dry zone oasis"
+  },
+  {
+    "value": 8,
+    "color": "#20A486FF",
+    "legend": "Dry steppe"
+  },
+  {
+    "value": 9,
+    "color": "#35B779FF",
+    "legend": "Tillage"
+  },
+  {
+    "value": 10,
+    "color": "#5DC863FF",
+    "legend": "Temperate grassland and pasture"
+  },
+  {
+    "value": 11,
+    "color": "#8FD744FF",
+    "legend": "Temperate forest and bush"
+  },
+  {
+    "value": 12,
+    "color": "#C7E020FF",
+    "legend": "Tundra"
+  },
+  {
+    "value": 13,
+    "color": "#FDE725FF",
+    "legend": "Rock and ice"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  },
+  {
+    "value": 96,
+    "color": "#666666",
+    "legend": "Oceanic islands"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tropical evergreen forest"
+  },
+  {
+    "value": 2,
+    "color": "#471063FF",
+    "legend": "Tropical semi-deciduous forest"
+  },
+  {
+    "value": 3,
+    "color": "#481D6FFF",
+    "legend": "Tropical savanna"
+  },
+  {
+    "value": 4,
+    "color": "#48297AFF",
+    "legend": "Tropical deciduous forest/woodland"
+  },
+  {
+    "value": 5,
+    "color": "#453581FF",
+    "legend": "Tropical xerophytic shrubland"
+  },
+  {
+    "value": 6,
+    "color": "#424186FF",
+    "legend": "Tropical grassland"
+  },
+  {
+    "value": 7,
+    "color": "#3D4D8AFF",
+    "legend": "Barren"
+  },
+  {
+    "value": 8,
+    "color": "#38578CFF",
+    "legend": "Desert"
+  },
+  {
+    "value": 9,
+    "color": "#34618DFF",
+    "legend": "Warm mixed forest"
+  },
+  {
+    "value": 10,
+    "color": "#2F6B8EFF",
+    "legend": "Temperate conifer forest"
+  },
+  {
+    "value": 11,
+    "color": "#2B748EFF",
+    "legend": "Temperate sclerophyll woodland"
+  },
+  {
+    "value": 12,
+    "color": "#277E8EFF",
+    "legend": "Open conifer woodland"
+  },
+  {
+    "value": 13,
+    "color": "#24878EFF",
+    "legend": "Temperate xerophytic shrubland"
+  },
+  {
+    "value": 14,
+    "color": "#21908CFF",
+    "legend": "Steppe tundra"
+  },
+  {
+    "value": 15,
+    "color": "#1F998AFF",
+    "legend": "Temperate broadleaf savanna"
+  },
+  {
+    "value": 16,
+    "color": "#1FA287FF",
+    "legend": "Temperate deciduous forest"
+  },
+  {
+    "value": 17,
+    "color": "#25AC82FF",
+    "legend": "Temperate grassland"
+  },
+  {
+    "value": 18,
+    "color": "#31B57BFF",
+    "legend": "Cold mixed forest"
+  },
+  {
+    "value": 19,
+    "color": "#40BC72FF",
+    "legend": "Cool mixed forest"
+  },
+  {
+    "value": 20,
+    "color": "#53C569FF",
+    "legend": "Cool conifer forest"
+  },
+  {
+    "value": 21,
+    "color": "#67CC5CFF",
+    "legend": "Evegreen taiga/montane forest"
+  },
+  {
+    "value": 22,
+    "color": "#7FD34EFF",
+    "legend": "Deciduous taiga/montane forest"
+  },
+  {
+    "value": 23,
+    "color": "#97D83FFF",
+    "legend": "Cushion-forbs lichen and moss"
+  },
+  {
+    "value": 24,
+    "color": "#B1DD2EFF",
+    "legend": "Shrub tundra"
+  },
+  {
+    "value": 25,
+    "color": "#CBE11EFF",
+    "legend": "Dwarf shrub tundra"
+  },
+  {
+    "value": 26,
+    "color": "#E5E419FF",
+    "legend": "Snow and ice"
+  },
+  {
+    "value": 27,
+    "color": "#FDE725FF",
+    "legend": "Prostrate shrub tundra"
+  }
+]

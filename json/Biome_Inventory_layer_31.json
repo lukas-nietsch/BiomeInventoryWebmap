@@ -1,0 +1,172 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "ET Tropical rainforest - desert semidesert"
+  },
+  {
+    "value": 2,
+    "color": "#470D60FF",
+    "legend": "Tropical rainforest"
+  },
+  {
+    "value": 3,
+    "color": "#48196BFF",
+    "legend": "ET Tropical rainforest - tropical subtropical seasonal rainforest savanna"
+  },
+  {
+    "value": 4,
+    "color": "#482475FF",
+    "legend": "Tropical subtropical seasonal rainforest savanna"
+  },
+  {
+    "value": 5,
+    "color": "#472E7CFF",
+    "legend": "ET Desert semidesert - tropical subtropical seasonal rainforest savanna"
+  },
+  {
+    "value": 6,
+    "color": "#453882FF",
+    "legend": "Desert semidesert"
+  },
+  {
+    "value": 7,
+    "color": "#424186FF",
+    "legend": "ET Laurel forest - tropical subtropical seasonal rainforest savanna"
+  },
+  {
+    "value": 8,
+    "color": "#3E4B8AFF",
+    "legend": "ET Laurel forest - tropical rainforest"
+  },
+  {
+    "value": 9,
+    "color": "#3A548CFF",
+    "legend": "ET Laurel forest - desert semidesert"
+  },
+  {
+    "value": 10,
+    "color": "#365D8DFF",
+    "legend": "ET Mediterranean - desert semidesert"
+  },
+  {
+    "value": 11,
+    "color": "#32658EFF",
+    "legend": "ET Winter cold steppe - tropical subtropical seasonal rainforest sava"
+  },
+  {
+    "value": 12,
+    "color": "#2E6D8EFF",
+    "legend": "Laurel forest"
+  },
+  {
+    "value": 13,
+    "color": "#2B758EFF",
+    "legend": "ET Laurel forest - winter cold steppe"
+  },
+  {
+    "value": 14,
+    "color": "#287D8EFF",
+    "legend": "ET Desert semidesert - winter cold semidesert"
+  },
+  {
+    "value": 15,
+    "color": "#25848EFF",
+    "legend": "ET Mediterranean - winter cold steppe"
+  },
+  {
+    "value": 16,
+    "color": "#228C8DFF",
+    "legend": "Mediterranean"
+  },
+  {
+    "value": 17,
+    "color": "#1F948CFF",
+    "legend": "Winter cold desert"
+  },
+  {
+    "value": 18,
+    "color": "#1E9C89FF",
+    "legend": "ET Laurel forest - mediterranean"
+  },
+  {
+    "value": 19,
+    "color": "#20A386FF",
+    "legend": "Winter cold steppe"
+  },
+  {
+    "value": 20,
+    "color": "#25AB82FF",
+    "legend": "Winter cold semidesert"
+  },
+  {
+    "value": 21,
+    "color": "#2EB37CFF",
+    "legend": "ET Mediterranean - nemoral"
+  },
+  {
+    "value": 22,
+    "color": "#3ABA76FF",
+    "legend": "Nemoral"
+  },
+  {
+    "value": 23,
+    "color": "#48C16EFF",
+    "legend": "ET Laurel forest - nemoral"
+  },
+  {
+    "value": 24,
+    "color": "#58C765FF",
+    "legend": "ET Winter cold steppe - polar"
+  },
+  {
+    "value": 25,
+    "color": "#6ACD5BFF",
+    "legend": "ET Nemoral - winter cold steppe"
+  },
+  {
+    "value": 26,
+    "color": "#7ED34FFF",
+    "legend": "ET Nemoral - boreal"
+  },
+  {
+    "value": 27,
+    "color": "#93D741FF",
+    "legend": "ET Nemoral - polar"
+  },
+  {
+    "value": 28,
+    "color": "#A8DB34FF",
+    "legend": "Boreal"
+  },
+  {
+    "value": 29,
+    "color": "#BEDF26FF",
+    "legend": "ET Winter cold steppe - boreal"
+  },
+  {
+    "value": 30,
+    "color": "#D4E21AFF",
+    "legend": "ET Boreal - polar"
+  },
+  {
+    "value": 31,
+    "color": "#E9E51AFF",
+    "legend": "Polar"
+  },
+  {
+    "value": 32,
+    "color": "#FDE725FF",
+    "legend": "Ice"
+  },
+  {
+    "value": 95,
+    "color": "#00bfff",
+    "legend": "Inland water"
+  },
+  {
+    "value": 96,
+    "color": "#666666",
+    "legend": "Oceanic islands"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "value": 1,
+    "color": "#440154FF",
+    "legend": "Tree cover (regularly flooded fresh water)"
+  },
+  {
+    "value": 2,
+    "color": "#481568FF",
+    "legend": "Tree cover (broadleaf evergreen)"
+  },
+  {
+    "value": 3,
+    "color": "#482677FF",
+    "legend": "Tree cover (regularly flooded saline water)"
+  },
+  {
+    "value": 4,
+    "color": "#453781FF",
+    "legend": "Tree cover (broadleaf deciduous open)"
+  },
+  {
+    "value": 5,
+    "color": "#3F4788FF",
+    "legend": "Mosaic cropland/tree cover/other natural vegetation"
+  },
+  {
+    "value": 6,
+    "color": "#39558CFF",
+    "legend": "Mosaic cropland/shrub/grass"
+  },
+  {
+    "value": 7,
+    "color": "#32648EFF",
+    "legend": "Bare soil"
+  },
+  {
+    "value": 8,
+    "color": "#2D718EFF",
+    "legend": "Herbaceous cover (closed-open)"
+  },
+  {
+    "value": 9,
+    "color": "#287D8EFF",
+    "legend": "Shrub cover (closed-open deciduous)"
+  },
+  {
+    "value": 10,
+    "color": "#238A8DFF",
+    "legend": "Cultivated and managed area"
+  },
+  {
+    "value": 11,
+    "color": "#1F968BFF",
+    "legend": "Tree cover (broadleaf deciduous closed)"
+  },
+  {
+    "value": 12,
+    "color": "#20A386FF",
+    "legend": "Shrub cover (closed-open evergreen)"
+  },
+  {
+    "value": 13,
+    "color": "#29AF7FFF",
+    "legend": "Sparse herbaceous/shrub cover"
+  },
+  {
+    "value": 14,
+    "color": "#3CBC75FF",
+    "legend": "Mosaic tree cover/other natural vegetation"
+  },
+  {
+    "value": 15,
+    "color": "#56C667FF",
+    "legend": "Regularly flooded shrub/herbaceous cover"
+  },
+  {
+    "value": 16,
+    "color": "#74D055FF",
+    "legend": "Tree cover (needleleaf evergreen)"
+  },
+  {
+    "value": 17,
+    "color": "#94D840FF",
+    "legend": "Tree cover (mixed leaf type)"
+  },
+  {
+    "value": 18,
+    "color": "#B8DE29FF",
+    "legend": "Tree cover (burnt)"
+  },
+  {
+    "value": 19,
+    "color": "#DCE318FF",
+    "legend": "Tree cover (needleleaf deciduous)"
+  },
+  {
+    "value": 20,
+    "color": "#FDE725FF",
+    "legend": "Snow and ice"
+  },
+  {
+    "value": 98,
+    "color": "#FF8C00",
+    "legend": "Urban"
+  }
+]
