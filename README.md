@@ -34,6 +34,8 @@ With all our considerations we came up with this first prompt:
 
 The basic interactive map was fully functioning after the first prompt. We did some smaller adjustments within 4 extra prompts, just to add a popup function and adjust the appearance a bit.
 
+The complete Chat can be found in the ChatExport folder.
+
 ## Citation:
 
 Fischer J-C, Waltenowitz A, Beierkuhnlein C (2022) The biome inventory - Standardizing global biogeographical units. Global Ecology and Biogeography31(11):2172-2183: https://doi.org/10.1111/geb.13574 For the compilation of the biome layers.
